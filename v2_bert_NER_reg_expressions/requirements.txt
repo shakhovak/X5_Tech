@@ -1,0 +1,6 @@
+transformers
+accelerate
+seqeval
+datasets
+nltk
+evaluate
